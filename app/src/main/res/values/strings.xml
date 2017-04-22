@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoSignIn</string>
+    <string name="accessibility_description">accessibility_description</string>
+    <string name="TiebaService">TiebaService</string>
+</resources>
